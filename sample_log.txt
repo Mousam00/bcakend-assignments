@@ -1,0 +1,10 @@
+"INFO: Application started",
+"DEBUG: Loaded configuration",
+"ERROR: Failed to connect to database",
+"INFO: Retrying connection",
+"ERROR: Timeout while connecting",
+"WARNING: Low memory",
+"INFO: Request received",
+"ERROR: Invalid user input",
+"INFO: Response sent",
+"DEBUG: Cleanup complete"
